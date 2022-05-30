@@ -1,0 +1,285 @@
+[{
+  "_id": {
+    "$oid": "620151bb17090c66189def86"
+  },
+  "title": "Great Family House ",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644253604200?alt=media&token=af9207c7-58eb-4310-9fa0-286928747e35",
+  "desc": "Single family residence\n5 bedrooms\n3 bathrooms\nBuilt in 2012\nForced air\nCeiling fan(s), central air\n3 Attached garage spaces\n10,454 sqft\n$111 price/sqft",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644253618889?alt=media&token=83379672-f74c-48c3-8cc6-c38db762ccff",
+  "publicKey": "0x94765fee0d63f3f7cb56ae5983570f2f598d6c93",
+  "govTitle": "GOVAPPT1",
+  "verified": true,
+  "sold": true,
+  "physcial_address": "5028 Bramblewood Dr, Manhattan, KS 66503",
+  "priceusd": 5,
+  "userId": "62014a107dcfa22a221d30d3",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "620159ac17090c66189def97"
+  },
+  "title": "Great Large Appartment",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644255636849?alt=media&token=5785c5f1-ae10-4b08-a2ee-7cf0f2d98e00",
+  "desc": "Townhouse\n3 bedrooms\n4 bathrooms\nBuilt in 2010\nForced air gas\nForced air electric\n2 Attached garage spaces\nNo data\n$112 price/sqft",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644253618889?alt=media&token=83379672-f74c-48c3-8cc6-c38db762ccff",
+  "publicKey": "0x94765fee0d63f3f7cb56ae5983570f2f598d6c93",
+  "govTitle": "APPT2",
+  "verified": true,
+  "sold": true,
+  "physcial_address": "Morroco, tangier, bassatine ",
+  "priceusd": 4,
+  "userId": "62014a107dcfa22a221d30d3",
+  "category": "house",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "62015d2617090c66189def9f"
+  },
+  "title": "Et aute alias ut mol",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644256529530?alt=media&token=4879dfd4-cb59-4e42-9e98-1042b1653ba3",
+  "desc": "Officiis distinctio",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644256533111?alt=media&token=db803659-7bd8-4bf9-a039-d15c7da51707",
+  "publicKey": "0x37bfb7c45d10dcd11572ad8f8bbb437d8b053cd0",
+  "govTitle": "GOVAPPT1",
+  "verified": true,
+  "sold": true,
+  "physcial_address": "Debitis laboris quia",
+  "priceusd": 1,
+  "userId": "61e09b6b33e0d73770619fb1",
+  "category": "appartement",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "62015d2617090c66189defa0"
+  },
+  "title": "Et aute alias ut mol",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644256529530?alt=media&token=4879dfd4-cb59-4e42-9e98-1042b1653ba3",
+  "desc": "Officiis distinctio",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644256533111?alt=media&token=db803659-7bd8-4bf9-a039-d15c7da51707",
+  "publicKey": "0x37bfb7c45d10dcd11572ad8f8bbb437d8b053cd0",
+  "govTitle": "GOVAPPT1",
+  "verified": true,
+  "sold": true,
+  "physcial_address": "Debitis laboris quia",
+  "priceusd": 1,
+  "userId": "61e09b6b33e0d73770619fb1",
+  "category": "appartement",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "6201626a17090c66189defa1"
+  },
+  "title": "Very Big Mansion",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644257845839?alt=media&token=5f4b1ea4-0daf-4f1e-9daf-67760a6f5b04",
+  "desc": "Listed by:\nJames Clancy\n\nPearl Real Estate & Appraisal\n\nSource: Sunflower AOR,\nMLS#: 222425\nMLS Logo\nZillow checked: February 07, 2022 at 09:31am\n\nData updated: February 05, 2022 at 11:01am",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644257849938?alt=media&token=c525ab59-3da4-4cea-a1c4-57a1f7304348",
+  "publicKey": "0x37bfb7c45d10dcd11572ad8f8bbb437d8b053cd0",
+  "govTitle": "GOVTT1",
+  "verified": true,
+  "sold": false,
+  "physcial_address": "FRANCE, PARIS",
+  "priceusd": 2,
+  "userId": "61e09b6b33e0d73770619fb1",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "6201626a17090c66189defa2"
+  },
+  "title": "Very Big Mansion",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644257845839?alt=media&token=5f4b1ea4-0daf-4f1e-9daf-67760a6f5b04",
+  "desc": "Listed by:\nJames Clancy\n\nPearl Real Estate & Appraisal\n\nSource: Sunflower AOR,\nMLS#: 222425\nMLS Logo\nZillow checked: February 07, 2022 at 09:31am\n\nData updated: February 05, 2022 at 11:01am",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644257849938?alt=media&token=c525ab59-3da4-4cea-a1c4-57a1f7304348",
+  "publicKey": "0x37bfb7c45d10dcd11572ad8f8bbb437d8b053cd0",
+  "govTitle": "GOVTT1",
+  "verified": true,
+  "sold": false,
+  "physcial_address": "FRANCE, PARIS",
+  "priceusd": 2,
+  "userId": "61e09b6b33e0d73770619fb1",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "62023b6317090c66189defa3"
+  },
+  "title": "Land One",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644313422244?alt=media&token=08c2c8af-79dd-489b-b44e-35ec3fcb5d0a",
+  "desc": "Great House,\n3 bedrooms\n5 rooms\n10sqft",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644313433869?alt=media&token=6703e7de-699e-4cc5-b5a3-0a7413fad337",
+  "publicKey": "0x37bfb7c45d10dcd11572ad8f8bbb437d8b053cd0",
+  "govTitle": "GOV1",
+  "verified": true,
+  "sold": true,
+  "physcial_address": "Morocco, Tangier",
+  "priceusd": 2,
+  "userId": "61e09b6b33e0d73770619fb1",
+  "category": "land",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "62023b8d17090c66189defa4"
+  },
+  "title": "Land One",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644313422244?alt=media&token=08c2c8af-79dd-489b-b44e-35ec3fcb5d0a",
+  "desc": "Great House,\n3 bedrooms\n5 rooms\n10sqft",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644313433869?alt=media&token=6703e7de-699e-4cc5-b5a3-0a7413fad337",
+  "publicKey": "0x37bfb7c45d10dcd11572ad8f8bbb437d8b053cd0",
+  "govTitle": "GOV1",
+  "verified": false,
+  "sold": false,
+  "physcial_address": "Morocco, Tangier",
+  "priceusd": 2,
+  "userId": "61e09b6b33e0d73770619fb1",
+  "category": "land",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "62023c5c17090c66189defa6"
+  },
+  "title": "Land One",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644313422244?alt=media&token=08c2c8af-79dd-489b-b44e-35ec3fcb5d0a",
+  "desc": "Great House,\n3 bedrooms\n5 rooms\n10sqft",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644313433869?alt=media&token=6703e7de-699e-4cc5-b5a3-0a7413fad337",
+  "publicKey": "0x37bfb7c45d10dcd11572ad8f8bbb437d8b053cd0",
+  "govTitle": "GOV1",
+  "verified": true,
+  "sold": true,
+  "physcial_address": "Morocco, Tangier",
+  "priceusd": 2,
+  "userId": "61e09b6b33e0d73770619fb1",
+  "category": "land",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "62023c7217090c66189defa7"
+  },
+  "title": "Land One",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644313422244?alt=media&token=08c2c8af-79dd-489b-b44e-35ec3fcb5d0a",
+  "desc": "Great House,\n3 bedrooms\n5 rooms\n10sqft",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644313433869?alt=media&token=6703e7de-699e-4cc5-b5a3-0a7413fad337",
+  "publicKey": "0x37bfb7c45d10dcd11572ad8f8bbb437d8b053cd0",
+  "govTitle": "GOVv",
+  "verified": true,
+  "sold": false,
+  "physcial_address": "Morocco, Tangier",
+  "priceusd": 2,
+  "userId": "61e09b6b33e0d73770619fb1",
+  "category": "land",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "6202418617090c66189defa8"
+  },
+  "title": "Title",
+  "desc": "Description of the hopuse",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644314987864?alt=media&token=f0bf5633-0015-4d1e-b546-d24a8355bedb",
+  "publicKey": "0x863c617662cccf0fc9bc49e0d10a630c8e8de708",
+  "govTitle": "GOV123",
+  "verified": true,
+  "sold": false,
+  "physcial_address": "Morocoo, Tangier",
+  "priceusd": 2,
+  "userId": "61fd39e92e63420057469561",
+  "category": "land",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "6202418717090c66189defa9"
+  },
+  "title": "Title",
+  "desc": "Description of the hopuse",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644314987864?alt=media&token=f0bf5633-0015-4d1e-b546-d24a8355bedb",
+  "publicKey": "0x863c617662cccf0fc9bc49e0d10a630c8e8de708",
+  "govTitle": "GOV123",
+  "verified": true,
+  "sold": false,
+  "physcial_address": "Morocoo, Tangier",
+  "priceusd": 2,
+  "userId": "61fd39e92e63420057469561",
+  "category": "land",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "6202443017090c66189defaa"
+  },
+  "title": "Complex Building",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644315657932?alt=media&token=b66897d3-87fa-4377-b691-93277ec9abc1",
+  "desc": "Description ",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644315663456?alt=media&token=de571cfe-ac7b-40ab-a114-93dc789f9a66",
+  "publicKey": "0x863c617662cccf0fc9bc49e0d10a630c8e8de708",
+  "govTitle": "govtitle1",
+  "verified": false,
+  "sold": false,
+  "physcial_address": "Sit nesciunt qui fa",
+  "priceusd": 2,
+  "userId": "62014a107dcfa22a221d30d3",
+  "category": "Complex_Building",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "6202443117090c66189defab"
+  },
+  "title": "Complex Building",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644315657932?alt=media&token=b66897d3-87fa-4377-b691-93277ec9abc1",
+  "desc": "Description ",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644315663456?alt=media&token=de571cfe-ac7b-40ab-a114-93dc789f9a66",
+  "publicKey": "0x863c617662cccf0fc9bc49e0d10a630c8e8de708",
+  "govTitle": "govtitle1",
+  "verified": false,
+  "sold": false,
+  "physcial_address": "Sit nesciunt qui fa",
+  "priceusd": 2,
+  "userId": "62014a107dcfa22a221d30d3",
+  "category": "Complex_Building",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "6202468c17090c66189defac"
+  },
+  "title": "House",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644316228686?alt=media&token=5e46a96c-8aea-43a1-b053-fb74acb1a73c",
+  "desc": "descrption",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644316233525?alt=media&token=8a18c247-3de0-42fc-96c3-353ebf989766",
+  "publicKey": "0xb372a806a0000426115bd020192fe0578bca84b8",
+  "govTitle": "GOVAPPT1",
+  "verified": false,
+  "sold": false,
+  "physcial_address": "tange",
+  "priceusd": 2,
+  "userId": "62014a107dcfa22a221d30d3",
+  "category": "land",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "6202469717090c66189defae"
+  },
+  "title": "House",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644316228686?alt=media&token=5e46a96c-8aea-43a1-b053-fb74acb1a73c",
+  "desc": "descrption",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644316233525?alt=media&token=8a18c247-3de0-42fc-96c3-353ebf989766",
+  "publicKey": "0xb372a806a0000426115bd020192fe0578bca84b8",
+  "govTitle": "GOVAPPT1",
+  "verified": false,
+  "sold": false,
+  "physcial_address": "tange",
+  "priceusd": 2,
+  "userId": "62014a107dcfa22a221d30d3",
+  "category": "land",
+  "_class": "fstt.lsi.entities.Property"
+},{
+  "_id": {
+    "$oid": "6202469717090c66189defaf"
+  },
+  "title": "House",
+  "images": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fimages%2F_1644316228686?alt=media&token=5e46a96c-8aea-43a1-b053-fb74acb1a73c",
+  "desc": "descrption",
+  "legaldocs": "https://firebasestorage.googleapis.com/v0/b/dhouse-fe0bb.appspot.com/o/productImages%2Fpdf%2F_1644316233525?alt=media&token=8a18c247-3de0-42fc-96c3-353ebf989766",
+  "publicKey": "0xb372a806a0000426115bd020192fe0578bca84b8",
+  "govTitle": "GOVAPPT1",
+  "verified": true,
+  "sold": false,
+  "physcial_address": "tange",
+  "priceusd": 2,
+  "userId": "62014a107dcfa22a221d30d3",
+  "category": "land",
+  "_class": "fstt.lsi.entities.Property"
+}]

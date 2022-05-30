@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "61e09b6b33e0d73770619fb1"
+  },
+  "username": "admin",
+  "email": "admin@admin.com",
+  "password": "$2a$10$rdBhIvqOcZzSaJmuQAS.M.mRpS0FE3PMAZ2NFJeAUXa.uQ0VGbyLa",
+  "image": "adminimage",
+  "description": "i am the admin",
+  "phone": 62578138,
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "61e094522d20911a1b059bbc"
+      }
+    }
+  ],
+  "_class": "org.lsi.entities.User"
+},{
+  "_id": {
+    "$oid": "61fd39e92e63420057469561"
+  },
+  "username": "user",
+  "email": "user@gmail.com",
+  "password": "$2a$10$rdBhIvqOcZzSaJmuQAS.M.mRpS0FE3PMAZ2NFJeAUXa.uQ0VGbyLa",
+  "phone": 0,
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "61e094242d20911a1b059bbb"
+      }
+    }
+  ],
+  "_class": "org.lsi.entities.User",
+  "description": "blahblah blah blah blah blah blah blah blah  blahblah blah blah blah blah blah blah blah  blahblah blah blah blah blah blah blah blah  blahblah blah blah blah blah blah blah blah ",
+  "image": "https://www.meme-arsenal.com/memes/7d90b52132f0deae31e9c6bf43f6757c.jpg"
+},{
+  "_id": {
+    "$oid": "6201496a7dcfa22a221d30d2"
+  },
+  "username": "hajyjuruh",
+  "email": "fukiga@mailinator.com",
+  "password": "$2a$10$1/m.TfFOPlOgCdvlWA1US.doSfPgESECerUO6hLwIOWuM/7WStLaK",
+  "phone": 0,
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "61e094242d20911a1b059bbb"
+      }
+    }
+  ],
+  "_class": "org.lsi.entities.User"
+},{
+  "_id": {
+    "$oid": "62014a107dcfa22a221d30d3"
+  },
+  "username": "ahmed",
+  "email": "quentin@email.com",
+  "password": "$2a$10$gv7r7pxwu4GLXuYOCiS7cuVMGGGzPnm7u42EXhBUuDBBXgdGnUljm",
+  "phone": 0,
+  "roles": [
+    {
+      "$ref": "roles",
+      "$id": {
+        "$oid": "61e094242d20911a1b059bbb"
+      }
+    }
+  ],
+  "_class": "org.lsi.entities.User"
+}]

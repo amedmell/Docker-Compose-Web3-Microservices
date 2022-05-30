@@ -1,0 +1,205 @@
+[{
+  "_id": {
+    "$oid": "61fff40917090c66189def60"
+  },
+  "filename": "face cv.jpg",
+  "length": 65101,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": {
+      "$numberLong": "1644164107283"
+    }
+  },
+  "metadata": {
+    "_contentType": "image/jpeg",
+    "fileSize": 65101,
+    "_class": "com.mongodb.BasicDBObject"
+  }
+},{
+  "_id": {
+    "$oid": "61fff55a17090c66189def62"
+  },
+  "filename": "comment.png",
+  "length": 17312,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": {
+      "$numberLong": "1644164442107"
+    }
+  },
+  "metadata": {
+    "_contentType": "image/png",
+    "fileSize": 17312,
+    "_class": "com.mongodb.BasicDBObject"
+  }
+},{
+  "_id": {
+    "$oid": "61fff75017090c66189def64"
+  },
+  "filename": "Screenshot 2022-01-06 221559.png",
+  "length": 23287,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": {
+      "$numberLong": "1644164944387"
+    }
+  },
+  "metadata": {
+    "_contentType": "image/png",
+    "fileSize": 23287,
+    "_class": "com.mongodb.BasicDBObject"
+  }
+},{
+  "_id": {
+    "$oid": "6200026c17090c66189def66"
+  },
+  "filename": "like.png",
+  "length": 23736,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": {
+      "$numberLong": "1644167788120"
+    }
+  },
+  "metadata": {
+    "_contentType": "image/png",
+    "fileSize": 23736,
+    "_class": "com.mongodb.BasicDBObject"
+  }
+},{
+  "_id": {
+    "$oid": "6200031e17090c66189def68"
+  },
+  "filename": "face cv.jpg",
+  "length": 65101,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": {
+      "$numberLong": "1644167966738"
+    }
+  },
+  "metadata": {
+    "_contentType": "image/jpeg",
+    "fileSize": 65101,
+    "_class": "com.mongodb.BasicDBObject"
+  }
+},{
+  "_id": {
+    "$oid": "6200047a17090c66189def6a"
+  },
+  "filename": "like.png",
+  "length": 23736,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": {
+      "$numberLong": "1644168314265"
+    }
+  },
+  "metadata": {
+    "_contentType": "image/png",
+    "fileSize": 23736,
+    "_class": "com.mongodb.BasicDBObject"
+  }
+},{
+  "_id": {
+    "$oid": "620004dd17090c66189def6c"
+  },
+  "filename": "like.png",
+  "length": 23736,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": {
+      "$numberLong": "1644168413451"
+    }
+  },
+  "metadata": {
+    "_contentType": "image/png",
+    "fileSize": 23736,
+    "_class": "com.mongodb.BasicDBObject"
+  }
+},{
+  "_id": {
+    "$oid": "6200052917090c66189def6e"
+  },
+  "filename": "WhatsApp Image 2020-10-18 at 21.52.46.jpeg",
+  "length": 110620,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": {
+      "$numberLong": "1644168489431"
+    }
+  },
+  "metadata": {
+    "_contentType": "image/jpeg",
+    "fileSize": 110620,
+    "_class": "com.mongodb.BasicDBObject"
+  }
+},{
+  "_id": {
+    "$oid": "6200053b17090c66189def70"
+  },
+  "filename": "Annotation 2020-01-03 170656.png",
+  "length": 1920682,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": {
+      "$numberLong": "1644168507824"
+    }
+  },
+  "metadata": {
+    "_contentType": "image/png",
+    "fileSize": 1920682,
+    "_class": "com.mongodb.BasicDBObject"
+  }
+},{
+  "_id": {
+    "$oid": "6200083317090c66189def79"
+  },
+  "filename": "comment.png",
+  "length": 17312,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": {
+      "$numberLong": "1644169267723"
+    }
+  },
+  "metadata": {
+    "_contentType": "image/png",
+    "fileSize": 17312,
+    "_class": "com.mongodb.BasicDBObject"
+  }
+},{
+  "_id": {
+    "$oid": "620009a617090c66189def7b"
+  },
+  "filename": "bac-face1-page-001.jpg",
+  "length": 362075,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": {
+      "$numberLong": "1644169638198"
+    }
+  },
+  "metadata": {
+    "_contentType": "image/jpeg",
+    "fileSize": 362075,
+    "_class": "com.mongodb.BasicDBObject"
+  }
+},{
+  "_id": {
+    "$oid": "62000ccd17090c66189def7e"
+  },
+  "filename": "cni verso.png",
+  "length": 174062,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": {
+      "$numberLong": "1644170445972"
+    }
+  },
+  "metadata": {
+    "_contentType": "image/png",
+    "fileSize": 174062,
+    "_class": "com.mongodb.BasicDBObject"
+  }
+}]

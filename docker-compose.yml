@@ -1,0 +1,95 @@
+version: '3.8'
+services:
+
+  #Mongodb container
+  mongodb:
+    image: mongo:4.4.14-focal #pull new mongo images
+    ports:
+      - "27017:27017"
+
+  #Mongodb contianer used to seed the 1st mongocontainer (copier les collections de notres BD au nouvel BD)
+  mongo-seed:
+    build: mongoseed #folder contains Dockerfile to import collections
+    
+    depends_on: #Depends on for the order of startup - order de demarrage
+      - mongodb
+      
+  
+  #Eureka Registry Container - conteneur pour le registre eureka
+  registry:
+    build: Registry
+    ports:
+      - "8761:8761"
+
+    #Healthcheck pour verifier le bon demarrage d'une service
+    healthcheck: 
+        test: ["CMD", "curl", "-f", "http://localhost:8761"]
+        interval: 30s
+        timeout: 10s
+        retries: 5
+  
+  
+  #container for the load balancer - CloudGateway
+  cloudgateway:
+
+    depends_on:
+      registry:
+        condition: service_healthy   #On utilise le healthcheck aussi pour assurer l'ordre du demearrage
+
+    build: Cloud-Gateway
+
+    ports:
+      - "9191:9191"
+    links:
+      - registry
+
+    healthcheck:
+        test: ["CMD", "curl", "-f", "http://localhost:9191"]
+        interval: 30s
+        timeout: 10s
+        retries: 5
+
+
+
+
+  #Container pour la service produits et annonces du site
+  annonces:
+    depends_on:
+      cloudgateway:
+        condition: service_healthy
+
+    build: Annonces-MS
+    ports:
+      - "8090:8090"
+    links:
+      - registry
+    healthcheck:
+        test: ["CMD", "curl", "-f", "http://localhost:8090"]
+        interval: 30s
+        timeout: 10s
+        retries: 5
+
+
+
+  #Container for the authentication service
+  auth:
+    depends_on:
+      cloudgateway:
+        condition: service_healthy
+
+    build: Auth-MS
+    ports:
+      - "8683:8683"
+    links:
+      - registry
+
+  
+  #Container for the frontend app built with angular
+  frontend:
+    depends_on:
+      - auth
+
+    build: DHouse-FrontEnd
+    ports: 
+      - "4200:4200"
+
